@@ -1,0 +1,5 @@
+ultralytics
+onnx
+onnxruntime
+opencv-python-headless
+matplotlib
