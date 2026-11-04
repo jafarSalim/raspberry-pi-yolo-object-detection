@@ -41,7 +41,7 @@ More findings:
 
 ## Flowchart
 
-<p align="center"><img src="results/flowchart.png" width="520" alt="Flowchart"></p>
+<p align="center"><img src="results/flowchart.png" width="460" alt="Flowchart"></p>
 
 ## Run it
 
